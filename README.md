@@ -5,7 +5,7 @@
 
 🔭 Currently working at [Justo].
 
-🌱 Learning about **Web Development and Cloud Technologies**.
+🌱 Learning about **Web Development and Artificial Intelligence**.
 
 ## Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
