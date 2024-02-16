@@ -7,9 +7,6 @@
 
 🌱 Learning about **Web Development and Cloud Technologies**.
 
-## 🌌 GitHub Skyline
-Experience my GitHub journey in 3D. [View my GitHub Skyline](#)
-
 ## Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
