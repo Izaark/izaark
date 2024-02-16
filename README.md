@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm [Izaark] 👋
 
-<!--
-**Izaark/izaark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍💻 I'm a passionate backend engineer.
 
-Here are some ideas to get you started:
+🔭 Currently working at [Justo].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning about **Web Development and Cloud Technologies**.
+
+## Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+## Statistics
+![Izaark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izaark&show_icons=true)
